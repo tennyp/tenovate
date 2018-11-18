@@ -1,0 +1,6 @@
+x=int(input("x:"))
+print (x)
+y=int(input("y:"))
+print (y)
+print ("float value of x by y is:", x/y)
+print ("int value of x by y is :", int(x/y)) 
