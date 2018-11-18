@@ -6,3 +6,4 @@ print ("Sin value of 30 is: ",math.sin(30))
 print ("power of 2 to 3 is:",math.pow(2,3)) 
 #power of a,b is a raise to b
 print ("Square root of 16 is:",math.sqrt(16))
+print ("cos of 30 is:",math.cos(30))
