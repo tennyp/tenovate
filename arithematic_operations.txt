@@ -1,0 +1,7 @@
++  --> Addition
+-  --> Subtraction
+*  --> multiplication
+/  --> Division
+%  --> modulus
+** --> exponentiation
+// --> integer division
